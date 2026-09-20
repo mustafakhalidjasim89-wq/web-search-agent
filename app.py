@@ -20,4 +20,4 @@ web_search_agent = Agent(
 )
 
 # Test execution directly in terminal
-web_search_agent.print_response("What are the  Top 3 Trends sales in iraq today ?", stream=True)
+web_search_agent.print_response("What are the  Top 3 Trends sales in telecom iraq market today ?", stream=True)
