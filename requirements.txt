@@ -1,0 +1,4 @@
+phidata
+duckduckgo-search
+openai
+python-dotenv
